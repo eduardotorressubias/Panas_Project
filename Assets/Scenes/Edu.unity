@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 795081934}
   - component: {fileID: 795081933}
   m_Layer: 0
-  m_Name: TimeLine
+  m_Name: TimeLine_Breakdancer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -169,7 +169,7 @@ PlayableDirector:
   serializedVersion: 3
   m_PlayableAsset: {fileID: 11400000, guid: 35f248f79677e2042bca2f0e39c31854, type: 2}
   m_InitialState: 1
-  m_WrapMode: 2
+  m_WrapMode: 1
   m_DirectorUpdateMode: 1
   m_InitialTime: 0
   m_SceneBindings:
