@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Dani.unity
+- path: Assets/Scenes/Edu.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
