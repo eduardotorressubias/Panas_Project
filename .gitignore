@@ -61,3 +61,5 @@ crashlytics-build.properties
 
 Library/ArtifactDB
 Library/ArtifactDB
+Library/ShaderCache.db
+Library/ShaderCache.db
